@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['value',['value',['../d5/d4a/structInt32.html#a172a4d3a96e8d5b826a21ef95f4703de',1,'Int32::value()'],['../de/d8d/structInt64.html#a6b9943c0ae3cc594150d8e1bcfab51ee',1,'Int64::value()']]]
+  ['use_5f64_5fbits_36',['USE_64_BITS',['../d1/d6a/group__numeric.html#gab2371354e572660e8df102ad4de9c7d1',1,'numeric.h']]]
 ];
